@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+public class Curry {
+	
+public static void main(String[] args) {
+	
+	//System.out.println("Hello I am you devoted worker");
+
+	 Scanner in = new Scanner(System.in);
+	// String s = in.nextLine();
+			
+			//System.out.println("What is your cars name..." );
+			//int x;
+			//x = 5;
+			//int y;
+			//y = 6;
+			//System.out.println( y+ x * y);
+		/*		
+			int i = 0;	
+			while(i <= 10) {
+			System.out.println("I has the value of..." +i);
+			i++;
+}
+		*/	//in.close();\
+		
+	//	for( int i = 0; i <= 10; i++) {
+	//		System.out.println("I is worth...." +i);
+	//	}
+		int i = 0;
+		do{
+			System.out.println("I has the value of..." +i);
+			i++;
+		}while(i <= 10) ;
+	  		
+
+
+
+}
+
+
+}
